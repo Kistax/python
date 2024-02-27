@@ -1,0 +1,51 @@
+h1{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+    text-align: center;
+}
+
+button{
+    color: white;
+    background-color: blue;
+    border-radius: 1000px;
+    height: 140px;
+    width: 240px;
+    margin-left: 45%;
+    margin-top: 20%;
+    font-size: 30px;
+}
+
+button:hover{
+    
+    background-color: white;
+    border-radius: 1000px;
+    height: 140px;
+    width: 240px;
+    margin-left: 45%;
+    margin-top: 20%;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 40px;
+}
+a:hover{
+    text-decoration: none;
+    color: blue;
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div{
+    margin-top: 25%;
+}
+
+body{
+    background-color: cyan;
+}
